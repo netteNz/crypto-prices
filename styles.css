@@ -1,0 +1,52 @@
+.bitcoin, .bitcoin small {
+  background-color: rgb(214, 187, 34);
+  color: #000000;
+}
+
+.ethereum, .ethereum small {
+  background-color: rgb(255, 255, 255);
+  color: #161616;
+}
+
+.litecoin, .litecoin small {
+  background-color: black;
+  color: #E5E5E5;
+}
+
+html, body, .container-fluid {
+  height: 100%;
+}
+
+.row {
+  height: 33.33333333%;
+}
+
+.row > div {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.price {
+  padding-right: 5px;
+}
+
+/* Add a ( before the change */
+.change::before {
+  content: '(';
+}
+
+/* Add a ) after the change */
+.change::after {
+  content: ')';
+}
+
+/* Add a $ before the price */
+.price::before {
+  content: '$';
+}
+
+/* Hide the price and change when they are empty */
+.change:empty, .price:empty {
+  display: none;
+}
