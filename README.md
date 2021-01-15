@@ -1,9 +1,9 @@
 # Prices
 
 Simple [Electron](http://electronjs.org) application that shows the current
-price of oil, gold, and silver using the STOOQ API.
+price of bitcoin, ethereum, and litecoin using the STOOQ API.
 
-![screenshot](https://cloud.githubusercontent.com/assets/671378/21198004/6e7a3798-c1f2-11e6-8228-495de90b7797.png)
+![screenshot](https://imgur.com/vGZNe8d)
 
 ## Getting started
 
