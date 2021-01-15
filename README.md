@@ -1,9 +1,9 @@
-# Prices
+# Crypto Prices
 
 Simple [Electron](http://electronjs.org) application that shows the current
 price of bitcoin, ethereum, and litecoin using the STOOQ API.
 
-![link](https://i.imgur.com/vGZNe8d.png)
+![image](https://i.imgur.com/vGZNe8d.png)
 
 ## Getting started
 
@@ -23,4 +23,4 @@ Here are some ideas on how it can be improved using other Electron APIs.
 - Export prices to a `.csv` file.
 - Show percentage change in price.
 - Show notifications when prices go above/below certain amounts.
-# crypto-prices
+
