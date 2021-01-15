@@ -3,7 +3,7 @@
 Simple [Electron](http://electronjs.org) application that shows the current
 price of bitcoin, ethereum, and litecoin using the STOOQ API.
 
-![screenshot](https://imgur.com/vGZNe8d)
+![link](https://imgur.com/vGZNe8d)
 
 ## Getting started
 
